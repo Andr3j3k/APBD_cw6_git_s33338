@@ -1,4 +1,5 @@
-﻿using APBD_cw6_git_s33338.Models;
+﻿using APBD_cw6_git_s33338.DTOs;
+using APBD_cw6_git_s33338.Models;
 
 namespace APBD_cw6_git_s33338.Interfaces;
 
