@@ -1,6 +1,3 @@
 ﻿namespace APBD_cw6_git_s33338.Exceptions;
 
-public class ReservationNotFoundException
-{
-    
-}
+public class ReservationNotFoundException(string message) : Exception(message);
